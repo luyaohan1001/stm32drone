@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : ISL6236A PCB V1I1.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Wed Feb 21 09:01:13 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.1000
+Max Text displacement is 15.0000
+Min Line Length is 0.1000
+Allowing 0, 90, 180 and 270 degree text rotations.
+No Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+
+     ----- Top Silkscreen -----
+
+
+     ----- Bottom Silkscreen -----
+
+
+Total Failures: 0
+
+Log End
+

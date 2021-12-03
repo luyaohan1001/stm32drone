@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : fa_logo_6x6mm.dra                             )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Feb 11 19:07:04 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1
+    Name      = fa_logo_6x6mm.bsm
+    User      = robotp
+    Machine   = ROBOTP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

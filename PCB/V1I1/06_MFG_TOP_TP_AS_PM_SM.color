@@ -1,0 +1,19 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "BOARD GEOMETRY/SOLDERMASK_TOP"
+color -vis "DRAWING FORMAT/DRAWING_ORIGIN"
+color -vis "DRC ERROR CLASS/PASTEMASK_TOP"
+color -vis "DRC ERROR CLASS/SOLDERMASK_TOP"
+color -vis "ETCH/BOND_BOTTOM"
+color -vis "ETCH/BOND_TOP"
+color -vis "MANUFACTURING/AUTOSILK_TOP"
+color -vis "PACKAGE GEOMETRY/PASTEMASK_TOP"
+color -vis "PACKAGE GEOMETRY/SOLDERMASK_TOP"
+color -vis "PIN/TOP"
+color -vis "PIN/PASTEMASK_TOP"
+color -vis "PIN/SOLDERMASK_TOP"
+color -vis "VIA CLASS/PASTEMASK_TOP"
+color -vis "VIA CLASS/SOLDERMASK_TOP"

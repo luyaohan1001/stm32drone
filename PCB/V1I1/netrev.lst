@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : ISL6236A PCB V1I1.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Wed Feb 21 08:52:11 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro'
+Design Directory:            'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1'
+Old design name:             'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/ISL6236A PCB V1I1.brd'
+New design name:             'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/ISL6236A PCB V1I1.brd'
+
+CmdLine: netrev -$ -i D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro -y 1 -h -z -q netrev_constraint_report.xml D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/#Taaaant21888.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro/pstchip.dat 
+   Finished reading D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro/pstchip.dat (00:00:00.02)
+Starting to read D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro/pstxprt.dat 
+   Finished reading D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro/pstxprt.dat (00:00:00.00)
+Starting to read D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro/pstxnet.dat 
+   Finished reading D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/symbols 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/padstacks 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Feb 21 8:52:11 2018
+   DESIGN NAME : 'ISL6236A PROJECT V1I1'
+   PACKAGING ON Jul 30 2017 03:29:02
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:00:34
+elapsed time  0:00:00
+

@@ -1,0 +1,260 @@
+(ExpressProject "ISL6236A PROJECT V1I1"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File ".\isl6236a_lib.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\isl6236a project v1i1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "3")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (IREFReportFile
+       "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A PROJECT V1I1.csv")
+    (IREFViewOutput "0")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "TRUE")
+    (DRC_Report_File
+       "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A PROJECT V1I1.DRC")
+    (DRC_Check_Ports "TRUE")
+    (DRC_Check_Off-Page_Connectors "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "TRUE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "TRUE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "FALSE")
+    (DRC_Check_Power_Ground_Short "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "TRUE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File
+       "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A PROJECT V1I1.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "{Item}\t{Reference}\t{Value}\t{.Description}\t{.Manufacturer}\t{.Manufacturer Part Number}\t{.Package / Case}\t{.Supplier}\t{.Supplier Part Number}")
+    (BOM_Header
+       "Item\tReference\tValue\tDescription\tManufacturer\tManufacturer Part Number\tPackage / Case\tSupplier\tSupplier Part Number")
+    (BOM_Include_File
+       "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A PROJECT V1I1.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "TRUE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" "allegro\ISL6236A PROJECT V1I1.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs"
+    (File ".\isl6236a project v1i1.csv"
+      (Type "Report"))
+    (File ".\isl6236a project v1i1.drc"
+      (Type "Report"))
+    (File ".\isl6236a project v1i1.bom"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (Sort User)
+    (File "./Variants.LST"
+      (Type "Report")
+      (DisplayName "./Variants.LST")))
+  (Folder "Referenced Projects")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "d:\courses\learn orcad and allegro essentials\design files\v1i1\isl6236a project v1i1.dsn")
+      (Path "Design Resources"
+         "d:\courses\learn orcad and allegro essentials\design files\v1i1\isl6236a project v1i1.dsn"
+         "ISL6236A Schematic")
+      (Path "Design Resources"
+         "d:\courses\learn orcad and allegro essentials\design files\v1i1\isl6236a project v1i1.dsn"
+         "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "d:\courses\learn orcad and allegro essentials\design files\v1i1\isl6236a_lib.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "d:\courses\learn orcad and allegro essentials\design files\v1i1\isl6236a project v1i1.dsn"
+         "ISL6236A Schematic" "05) REVISION HISTORY"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 375 0 719"))
+      (Tab 0)))
+  (PartMRUSelector
+    ("Project Title Block"
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    (FEDEVELTitleBlock
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    (TitleBlock0
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("PCB ISL6236A Project V1I1"
+      (FullPartName "PCB ISL6236A Project V1I1.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("Fiducial M80MILxD40MIL"
+      (FullPartName "Fiducial M80MILxD40MIL.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("Mounting hole D7MM4xH3MM2"
+      (FullPartName "Mounting hole D7MM4xH3MM2.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("Tespoint D40MIL"
+      (FullPartName "Tespoint D40MIL.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("Pad D4MMxH1MM5"
+      (FullPartName "Pad D4MMxH1MM5.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD 10K OHM 1% 1/8W 0805"
+      (FullPartName "RES SMD 10K OHM 1% 1/8W 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD 0 OHM JUMPER 1/8W 0805"
+      (FullPartName "RES SMD 0 OHM JUMPER 1/8W 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD TBD 0805"
+      (FullPartName "RES SMD TBD 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("CAP TANT POLY 330UF 10V 2917"
+      (FullPartName "CAP TANT POLY 330UF 10V 2917.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("FIXED IND 3.3UH 9.26A 6.3 MOHM"
+      (FullPartName "FIXED IND 3.3UH 9.26A 6.3 MOHM.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("FIXED IND 2.2UH 10.9A 4.5 MOHM"
+      (FullPartName "FIXED IND 2.2UH 10.9A 4.5 MOHM.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    (SI4816BDY-T1-GE3
+      (FullPartName "SI4816BDY-T1-GE3.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD 200K OHM 1% 1/8W 0805"
+      (FullPartName "RES SMD 200K OHM 1% 1/8W 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 4.7UF 35V X5R 1206"
+      (FullPartName "CAP CER 4.7UF 35V X5R 1206.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD 10 OHM 1% 1/8W 0805"
+      (FullPartName "RES SMD 10 OHM 1% 1/8W 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("RES SMD 1 OHM 1% 1/8W 0805"
+      (FullPartName "RES SMD 1 OHM 1% 1/8W 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 10UF 50V X5R 1210"
+      (FullPartName "CAP CER 10UF 50V X5R 1210.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0"))
+    ("CAP CER 0.22UF 50V X7R 0805"
+      (FullPartName "CAP CER 0.22UF 50V X7R 0805.Normal")
+      (LibraryName
+         "D:\COURSES\LEARN ORCAD AND ALLEGRO ESSENTIALS\DESIGN FILES\V1I1\ISL6236A_LIB.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "robotp")
+  (ISPCBBASICLICENSE "false"))

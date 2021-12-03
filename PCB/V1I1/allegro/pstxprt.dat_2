@@ -1,0 +1,578 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Feb-21-2018 at 08:33:37 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ISL6236A PROJECT V1I1';
+ POST_TIME='Jul 30 2017 03:29:02';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP CER 4.7UF 35V X5R 1206_C120':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16780215@ISL6236A_LIB.CAP CER 4.7UF 35V X5R 1206.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16780215@isl6236a_lib.\cap cer 4.7uf 35v x5r 1206.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16780215@isl6236a_lib.\cap cer 4.7uf 35v x5r 1206.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP TANT POLY 330UF 10V 2917_73':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16786556@ISL6236A_LIB.CAP TANT POLY 330UF 10V 2917.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16786556@isl6236a_lib.\cap tant poly 330uf 10v 2917.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16786556@isl6236a_lib.\cap tant poly 330uf 10v 2917.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP CER 10000PF 50V X7R 0805_C0':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16778732@ISL6236A_LIB.CAP CER 10000PF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16778732@isl6236a_lib.\cap cer 10000pf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16778732@isl6236a_lib.\cap cer 10000pf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP CER 0.1UF 50V X7R 0805_C080':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16778060@ISL6236A_LIB.CAP CER 0.1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16778060@isl6236a_lib.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16778060@isl6236a_lib.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP CER 1UF 50V X7R 0805_C0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16776921@ISL6236A_LIB.CAP CER 1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16776921@isl6236a_lib.\cap cer 1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16776921@isl6236a_lib.\cap cer 1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP CER 1UF 50V X7R 0805_C0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16776717@ISL6236A_LIB.CAP CER 1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16776717@isl6236a_lib.\cap cer 1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16776717@isl6236a_lib.\cap cer 1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP CER 1UF 50V X7R 0805_C0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16776901@ISL6236A_LIB.CAP CER 1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16776901@isl6236a_lib.\cap cer 1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16776901@isl6236a_lib.\cap cer 1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP CER 10UF 50V X5R 1210_C1210':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779232@ISL6236A_LIB.CAP CER 10UF 50V X5R 1210.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779232@isl6236a_lib.\cap cer 10uf 50v x5r 1210.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779232@isl6236a_lib.\cap cer 10uf 50v x5r 1210.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP CER 10UF 50V X5R 1210_C1210':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779242@ISL6236A_LIB.CAP CER 10UF 50V X5R 1210.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779242@isl6236a_lib.\cap cer 10uf 50v x5r 1210.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779242@isl6236a_lib.\cap cer 10uf 50v x5r 1210.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP CER 0.1UF 50V X7R 0805_C080':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16778050@ISL6236A_LIB.CAP CER 0.1UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16778050@isl6236a_lib.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16778050@isl6236a_lib.\cap cer 0.1uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP CER 0.22UF 50V X7R 0805_C08':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779146@ISL6236A_LIB.CAP CER 0.22UF 50V X7R 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779146@isl6236a_lib.\cap cer 0.22uf 50v x7r 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779146@isl6236a_lib.\cap cer 0.22uf 50v x7r 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP TANT POLY 330UF 10V 2917_73':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16786546@ISL6236A_LIB.CAP TANT POLY 330UF 10V 2917.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16786546@isl6236a_lib.\cap tant poly 330uf 10v 2917.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16786546@isl6236a_lib.\cap tant poly 330uf 10v 2917.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ FID1 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794025@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794025@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794025@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID2 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794029@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794029@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794029@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID3 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794033@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794033@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794033@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID4 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794037@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794037@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794037@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID5 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794049@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794049@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794049@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID6 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794053@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794053@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794053@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID7 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794057@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794057@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794057@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ FID8 'FIDUCIAL M80MILXD40MIL_FID_M80M':;
+
+SECTION_NUMBER -1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16794061@ISL6236A_LIB.FIDUCIAL M80MILXD40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16794061@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16794061@isl6236a_lib.\fiducial m80milxd40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ CLASS='MECHANICAL',
+ SECTION='';
+
+PART_NAME
+ J1 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790932@ISL6236A_LIB.PAD D4MMXH1MM5.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790932@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16790932@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790939@ISL6236A_LIB.PAD D4MMXH1MM5.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790939@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16790939@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790960@ISL6236A_LIB.PAD D4MMXH1MM5.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790960@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16790960@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790967@ISL6236A_LIB.PAD D4MMXH1MM5.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790967@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16790967@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J5 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790953@ISL6236A_LIB.PAD D4MMXH1MM5.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790953@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16790953@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790946@ISL6236A_LIB.PAD D4MMXH1MM5.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790946@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16790946@isl6236a_lib.\pad d4mmxh1mm5.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'FIXED IND 3.3UH 9.26A 6.3 MOHM_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16786436@ISL6236A_LIB.FIXED IND 3.3UH 9.26A 6.3 MOHM.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16786436@isl6236a_lib.\fixed ind 3.3uh 9.26a 6.3 mohm.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16786436@isl6236a_lib.\fixed ind 3.3uh 9.26a 6.3 mohm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'FIXED IND 2.2UH 10.9A 4.5 MOHM_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16786420@ISL6236A_LIB.FIXED IND 2.2UH 10.9A 4.5 MOHM.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16786420@isl6236a_lib.\fixed ind 2.2uh 10.9a 4.5 mohm.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16786420@isl6236a_lib.\fixed ind 2.2uh 10.9a 4.5 mohm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH1 'MOUNTING HOLE D7MM4XH3MM2_MH_D7':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791851@ISL6236A_LIB.MOUNTING HOLE D7MM4XH3MM2.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791851@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791851@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH2 'MOUNTING HOLE D7MM4XH3MM2_MH_D7':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791858@ISL6236A_LIB.MOUNTING HOLE D7MM4XH3MM2.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791858@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791858@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH3 'MOUNTING HOLE D7MM4XH3MM2_MH_D7':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791865@ISL6236A_LIB.MOUNTING HOLE D7MM4XH3MM2.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791865@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791865@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ MH4 'MOUNTING HOLE D7MM4XH3MM2_MH_D7':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791872@ISL6236A_LIB.MOUNTING HOLE D7MM4XH3MM2.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791872@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791872@isl6236a_lib.\mounting hole d7mm4xh3mm2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'SI4816BDY-T1-GE3_SO-8_SI4816BDY':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16785701@ISL6236A_LIB.SI4816BDY-T1-GE3.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16785701@isl6236a_lib.\si4816bdy-t1-ge3.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16785701@isl6236a_lib.\si4816bdy-t1-ge3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'SI4816BDY-T1-GE3_SO-8_SI4816BDY':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16785685@ISL6236A_LIB.SI4816BDY-T1-GE3.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16785685@isl6236a_lib.\si4816bdy-t1-ge3.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16785685@isl6236a_lib.\si4816bdy-t1-ge3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES SMD 0 OHM JUMPER 1/8W 0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779916@ISL6236A_LIB.RES SMD 0 OHM JUMPER 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779916@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779916@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RES SMD 200K OHM 1% 1/8W 0805_R':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16781971@ISL6236A_LIB.RES SMD 200K OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16781971@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16781971@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RES SMD 10K OHM 1% 1/8W 0805_R0':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16790407@ISL6236A_LIB.RES SMD 10K OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16790407@isl6236a_lib.\res smd 10k ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16790407@isl6236a_lib.\res smd 10k ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RES SMD TBD 0805_R0805_TBD':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16787237@ISL6236A_LIB.RES SMD TBD 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16787237@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16787237@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RES SMD 0 OHM JUMPER 1/8W 0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16787263@ISL6236A_LIB.RES SMD 0 OHM JUMPER 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16787263@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16787263@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RES SMD TBD 0805_R0805_TBD':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16784449@ISL6236A_LIB.RES SMD TBD 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16784449@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16784449@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RES SMD 0 OHM JUMPER 1/8W 0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16784465@ISL6236A_LIB.RES SMD 0 OHM JUMPER 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16784465@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16784465@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RES SMD TBD 0805_R0805_TBD':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16784481@ISL6236A_LIB.RES SMD TBD 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16784481@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16784481@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RES SMD TBD 0805_R0805_TBD':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16787247@ISL6236A_LIB.RES SMD TBD 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16787247@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16787247@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RES SMD TBD 0805_R0805_TBD':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16784491@ISL6236A_LIB.RES SMD TBD 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16784491@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16784491@isl6236a_lib.\res smd tbd 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES SMD 0 OHM JUMPER 1/8W 0805_':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16780386@ISL6236A_LIB.RES SMD 0 OHM JUMPER 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16780386@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16780386@isl6236a_lib.\res smd 0 ohm jumper 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES SMD 10 OHM 1% 1/8W 0805_R08':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779519@ISL6236A_LIB.RES SMD 10 OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779519@isl6236a_lib.\res smd 10 ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779519@isl6236a_lib.\res smd 10 ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES SMD 1 OHM 1% 1/8W 0805_R080':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779257@ISL6236A_LIB.RES SMD 1 OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779257@isl6236a_lib.\res smd 1 ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779257@isl6236a_lib.\res smd 1 ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RES SMD 1 OHM 1% 1/8W 0805_R080':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16779265@ISL6236A_LIB.RES SMD 1 OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16779265@isl6236a_lib.\res smd 1 ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16779265@isl6236a_lib.\res smd 1 ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RES SMD 200K OHM 1% 1/8W 0805_R':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16781951@ISL6236A_LIB.RES SMD 200K OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16781951@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16781951@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RES SMD 200K OHM 1% 1/8W 0805_R':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16781941@ISL6236A_LIB.RES SMD 200K OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16781941@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16781941@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RES SMD 10K OHM 1% 1/8W 0805_R0':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16789937@ISL6236A_LIB.RES SMD 10K OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16789937@isl6236a_lib.\res smd 10k ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16789937@isl6236a_lib.\res smd 10k ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RES SMD 200K OHM 1% 1/8W 0805_R':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16781961@ISL6236A_LIB.RES SMD 200K OHM 1% 1/8W 0805.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16781961@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16781961@isl6236a_lib.\res smd 200k ohm 1% 1/8w 0805.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TESTPOINT D40MIL_TP_40MIL_TESTP':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791319@ISL6236A_LIB.TESTPOINT D40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791319@isl6236a_lib.\testpoint d40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791319@isl6236a_lib.\testpoint d40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TESTPOINT D40MIL_TP_40MIL_TESTP':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791312@ISL6236A_LIB.TESTPOINT D40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791312@isl6236a_lib.\testpoint d40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791312@isl6236a_lib.\testpoint d40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TESTPOINT D40MIL_TP_40MIL_TESTP':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16791305@ISL6236A_LIB.TESTPOINT D40MIL.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16791305@isl6236a_lib.\testpoint d40mil.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page4_ins16791305@isl6236a_lib.\testpoint d40mil.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'ISL6236AIRZ_L32_5X5B_ISL6236AIR':;
+
+SECTION_NUMBER 1
+ '@ISL6236A PROJECT V1I1.ISL6236A SCHEMATIC(SCH_1):INS16767716@ISL6236A_LIB.ISL6236AIRZ.NORMAL(CHIPS)':
+ C_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):ins16767716@isl6236a_lib.\isl6236airz.normal\(chips)',
+ P_PATH='@\isl6236a project v1i1\.\isl6236a schematic\(sch_1):page3_ins16767716@isl6236a_lib.\isl6236airz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

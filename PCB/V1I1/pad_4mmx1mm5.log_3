@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : pad_4MMx1MM5.dra                              )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu Jan 11 16:49:09 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1
+    Name      = pad_4mmx1mm5.psm
+    User      = robotp
+    Machine   = ROBOTP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

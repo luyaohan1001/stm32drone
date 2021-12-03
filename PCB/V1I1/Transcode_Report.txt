@@ -1,0 +1,1608 @@
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Tue Feb 20 15:04:42 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Tue Feb 20 15:04:42 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Tue Feb 20 15:04:42 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Tue Feb 20 15:04:42 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Tue Feb 20 15:04:42 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Tue Feb 20 15:04:42 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Tue Feb 20 15:04:42 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Tue Feb 20 15:04:42 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Tue Feb 20 15:04:42 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Tue Feb 20 15:04:42 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Tue Feb 20 15:04:42 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Tue Feb 20 15:04:42 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Tue Feb 20 15:04:58 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 12:16:53 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 12:16:53 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 12:16:53 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 12:16:53 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 12:16:53 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 12:16:53 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 12:16:53 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 12:16:53 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 12:16:53 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 12:16:54 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Wed Feb 21 12:16:54 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 12:16:54 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 12:16:58 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 12:16:58 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 12:27:38 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 12:27:38 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 12:27:38 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 12:27:38 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 12:27:38 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 12:27:38 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 12:27:38 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 12:27:38 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 12:27:38 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 12:27:38 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Wed Feb 21 12:27:38 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 12:27:38 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 12:27:42 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 12:27:42 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 12:28:58 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 12:28:58 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 12:28:58 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 12:28:58 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 12:28:58 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 12:28:58 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 12:28:58 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 12:28:58 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 12:28:58 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 12:28:58 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Wed Feb 21 12:28:58 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 12:28:58 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 12:29:02 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 12:29:02 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 15:45:16 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 15:45:16 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 15:45:16 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 15:45:16 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 15:45:16 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 15:45:16 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 15:45:16 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 15:45:16 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 15:45:16 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 15:45:16 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 15:45:16 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Wed Feb 21 15:45:16 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 15:45:16 2018
+
+D10   --> D171
+D11   --> D172
+D12   --> D173
+D13   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 15:45:18 2018
+
+D10   --> D175
+D11   --> D176
+D12   --> D177
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 15:45:18 2018
+
+D10   --> D178
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 15:46:49 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 15:46:49 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 15:46:49 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 15:46:49 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 15:46:49 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 15:46:49 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 15:46:49 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 15:46:49 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 15:46:49 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 15:46:49 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Wed Feb 21 15:46:49 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 15:46:49 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 15:46:50 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 15:46:50 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 15:52:48 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 15:52:48 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 15:52:48 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 15:52:48 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 15:52:48 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 15:52:48 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 15:52:48 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 15:52:48 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 15:52:48 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 15:52:48 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_SILK.art' ----   Wed Feb 21 15:52:48 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 15:52:48 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 15:52:50 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 15:52:50 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 15:58:43 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 15:58:43 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 15:58:43 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 15:58:43 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 15:58:43 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 15:58:43 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 15:58:43 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 15:58:43 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 15:58:43 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 15:58:43 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 15:58:43 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 15:58:43 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 15:58:44 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 15:58:44 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:26:19 2018
+
+D11   --> D176
+D10   --> D177
+D13   --> D178
+D12   --> D179
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:26:19 2018
+
+D13   --> D180
+D14   --> D181
+D12   --> D182
+D11   --> D183
+D10   --> D184
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:26:19 2018
+
+D13   --> D185
+D15   --> D186
+D14   --> D187
+D12   --> D188
+D11   --> D189
+D10   --> D190
+D17   --> D191
+D16   --> D192
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:26:19 2018
+
+D12   --> D193
+D11   --> D194
+D10   --> D195
+D13   --> D196
+D15   --> D197
+D14   --> D198
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:26:19 2018
+
+D11   --> D199
+D10   --> D200
+D12   --> D201
+D13   --> D202
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:26:19 2018
+
+D11   --> D203
+D10   --> D204
+D12   --> D205
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:26:19 2018
+
+D12   --> D206
+D11   --> D207
+D10   --> D208
+D13   --> D209
+D15   --> D210
+D14   --> D211
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:26:19 2018
+
+D16   --> D212
+D14   --> D213
+D13   --> D214
+D20   --> D215
+D15   --> D216
+D17   --> D217
+D19   --> D218
+D18   --> D219
+D12   --> D220
+D11   --> D221
+D10   --> D222
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:26:19 2018
+
+D16   --> D223
+D13   --> D224
+D17   --> D225
+D20   --> D226
+D19   --> D227
+D18   --> D228
+D14   --> D229
+D12   --> D230
+D11   --> D231
+D10   --> D232
+D15   --> D233
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:26:19 2018
+
+D12   --> D234
+D10   --> D235
+D16   --> D236
+D11   --> D237
+D13   --> D238
+D15   --> D239
+D14   --> D240
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:26:19 2018
+
+D10   --> D241
+D11   --> D242
+D12   --> D243
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:26:19 2018
+
+D10   --> D244
+D11   --> D245
+D12   --> D246
+D13   --> D247
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:26:21 2018
+
+D10   --> D248
+D11   --> D249
+D12   --> D250
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:26:21 2018
+
+D10   --> D251
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:28:28 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:28:28 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:28:28 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:28:28 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:28:28 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:28:28 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:28:28 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:28:28 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:28:28 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:28:28 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:28:28 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:28:28 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:28:29 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:28:29 2018
+
+D10   --> D175
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_02-TOP_PASTE.art' ----   Wed Feb 21 16:30:23 2018
+
+D11   --> D100
+D10   --> D101
+D13   --> D102
+D12   --> D103
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_03-TOP_SOLDER.art' ----   Wed Feb 21 16:30:23 2018
+
+D13   --> D104
+D14   --> D105
+D12   --> D106
+D11   --> D107
+D10   --> D108
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_04-L1.art' ----   Wed Feb 21 16:30:23 2018
+
+D13   --> D109
+D15   --> D110
+D14   --> D111
+D12   --> D112
+D11   --> D113
+D10   --> D114
+D17   --> D115
+D16   --> D116
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_05-L2.art' ----   Wed Feb 21 16:30:23 2018
+
+D12   --> D117
+D11   --> D118
+D10   --> D119
+D13   --> D120
+D15   --> D121
+D14   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_06-L3.art' ----   Wed Feb 21 16:30:23 2018
+
+D11   --> D123
+D10   --> D124
+D12   --> D125
+D13   --> D126
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_07-L4.art' ----   Wed Feb 21 16:30:23 2018
+
+D11   --> D127
+D10   --> D128
+D12   --> D129
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_08-L5.art' ----   Wed Feb 21 16:30:23 2018
+
+D12   --> D130
+D11   --> D131
+D10   --> D132
+D13   --> D133
+D15   --> D134
+D14   --> D135
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_09-L6.art' ----   Wed Feb 21 16:30:23 2018
+
+D16   --> D136
+D14   --> D137
+D13   --> D138
+D20   --> D139
+D15   --> D140
+D17   --> D141
+D19   --> D142
+D18   --> D143
+D12   --> D144
+D11   --> D145
+D10   --> D146
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_10-BOTTOM_SOLDER.art' ----   Wed Feb 21 16:30:23 2018
+
+D16   --> D147
+D13   --> D148
+D17   --> D149
+D20   --> D150
+D19   --> D151
+D18   --> D152
+D14   --> D153
+D12   --> D154
+D11   --> D155
+D10   --> D156
+D15   --> D157
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_11-BOTTOM_PASTE.art' ----   Wed Feb 21 16:30:23 2018
+
+D12   --> D158
+D10   --> D159
+D16   --> D160
+D11   --> D161
+D13   --> D162
+D15   --> D163
+D14   --> D164
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_12-BOTTOM_OVERLAY.art' ----   Wed Feb 21 16:30:23 2018
+
+D10   --> D165
+D11   --> D166
+D12   --> D167
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_13-MECH_DRAWING.art' ----   Wed Feb 21 16:30:23 2018
+
+D10   --> D168
+D11   --> D169
+D12   --> D170
+D13   --> D171
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_14-MFG_NOTES.art' ----   Wed Feb 21 16:30:24 2018
+
+D10   --> D172
+D11   --> D173
+D12   --> D174
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A_V1I1_15-BOARD_OUTLINE.art' ----   Wed Feb 21 16:30:24 2018
+
+D10   --> D175
+-----------------------------------------------------------------

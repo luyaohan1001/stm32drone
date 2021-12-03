@@ -1,0 +1,26 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Unplaced Symbol Availability Check                               )
+(                                                                     )
+(    Drawing          : ISL6236A PCB V1I1.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Thu Feb 08 13:22:57 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Current PSMPATH consists of:
+	.
+	symbols
+	..
+	../symbols
+	d:/cadence/spb_17.2/share/local/pcb/symbols
+	d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols
+	d:/cadence/spb_17.2/share/pcb/allegrolib/symbols
+
+
+All Symbols Found
+
+Total symbols placed:      56 out of 56
+
+

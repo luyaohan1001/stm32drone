@@ -1,0 +1,98 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : ISL6236A PCB V1I1.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Feb 11 10:15:41 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 11 10:15:41 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/ISL6236A PCB V1I1.brd'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/symbols 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/padstacks 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'THRU_D7MM4_H3MM2'  pad stack refresh starting.
+
+     'THRU_D7MM4_H3MM2'  pad stack refreshed successfully.
+     
+'VIA_D0MM6_H0MM3'  pad stack refresh starting.
+
+     'VIA_D0MM6_H0MM3'  pad stack refreshed successfully.
+     
+'THRU_D4MM_H1MM5'  pad stack refresh starting.
+
+     'THRU_D4MM_H1MM5'  pad stack refreshed successfully.
+     
+'SMD_W3MM3_H3MM3'  pad stack refresh starting.
+
+     'SMD_W3MM3_H3MM3'  pad stack refreshed successfully.
+     
+'SMD_W0MM6_H0MM23'  pad stack refresh starting.
+
+     'SMD_W0MM6_H0MM23'  pad stack refreshed successfully.
+     
+'SMD_D40MIL'  pad stack refresh starting.
+
+     'SMD_D40MIL'  pad stack refreshed successfully.
+     
+'SMD_W0MM7_H1MM3'  pad stack refresh starting.
+
+     'SMD_W0MM7_H1MM3'  pad stack refreshed successfully.
+     
+'SMD_W62MIL_H22MIL'  pad stack refresh starting.
+
+     'SMD_W62MIL_H22MIL'  pad stack refreshed successfully.
+     
+'SMD_W3MM85_H5MM5'  pad stack refresh starting.
+
+     'SMD_W3MM85_H5MM5'  pad stack refreshed successfully.
+     
+'FID_M80MIL_D40MIL'  pad stack refresh starting.
+
+     'FID_M80MIL_D40MIL'  pad stack refreshed successfully.
+     
+'SMD_W0MM95_H2MM6'  pad stack refresh starting.
+
+     'SMD_W0MM95_H2MM6'  pad stack refreshed successfully.
+     
+'SMD_W0MM95_H1MM35'  pad stack refresh starting.
+
+     'SMD_W0MM95_H1MM35'  pad stack refreshed successfully.
+     
+'SMD_W3MM75_H2MM55'  pad stack refresh starting.
+
+     'SMD_W3MM75_H2MM55'  pad stack refreshed successfully.
+     
+'SMD_W0MM95_H1MM7'  pad stack refresh starting.
+
+     'SMD_W0MM95_H1MM7'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

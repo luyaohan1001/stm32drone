@@ -1,0 +1,141 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Feb 23 12:31:21 2018
+\t (00:00:02)         Host=ROBOTP-PC User=robotp Pid=18644 CPUs=8
+\t (00:00:02) CmdLine= d:\cadence\spb_17.2\tools\bin\allegro.exe D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A PCB V1I1.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) "Loading add_layer_name. Created by Robert Feranec (c) 2017 FEDEVEL"
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Design opened: D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/ISL6236A PCB V1I1.brd
+\i (00:00:04) trapsize 14971
+\i (00:00:04) trapsize 15312
+\i (00:00:04) trapsize 15312
+\i (00:00:04) trapsize 213674
+\i (00:00:04) trapsize 195868
+\i (00:00:05) etchedit 
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: 11 - MFG ASM BOTTOM - 6V to 24V Variant"
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: 11 - MFG ASM BOTTOM - 6V to 24V Variant"
+\i (00:00:08) color -globvis off 
+\i (00:00:08) color -vis 'BOARD GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:08) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:08) color -vis 'COMPONENT VALUE/ASSEMBLY_BOTTOM' 
+\i (00:00:09) color -vis 'DEVICE TYPE/ASSEMBLY_BOTTOM' 
+\i (00:00:09) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:00:09) color -vis ETCH/BOND_BOTTOM 
+\i (00:00:09) color -vis ETCH/BOND_TOP 
+\i (00:00:09) color -vis 'MANUFACTURING/6 TO 24V VARIANT_B' 
+\i (00:00:09) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:09) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:09) color -vis TOLERANCE/ASSEMBLY_BOTTOM 
+\i (00:00:09) color -vis 'USER PART NUMBER/ASSEMBLY_BOTTOM' 
+\i (00:00:09) trapsize 15312
+\i (00:00:09) etchedit 
+\i (00:00:11) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:00:12) zoom in 1 
+\i (00:00:12) setwindow pcb
+\i (00:00:12) zoom in 49.2201 26.1914
+\i (00:00:12) trapsize 7656
+\i (00:00:12) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 56.8761 26.4977
+\i (00:00:13) trapsize 3828
+\i (00:00:13) roam start
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -24
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -24
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -32
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -40
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -16
+\i (00:00:13) roam x -24
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam x -8
+\i (00:00:13) roam end
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 37.1571 29.2539
+\i (00:00:14) trapsize 7656
+\i (00:00:17) move 
+\t (00:00:17) Select element(s) to move.
+\i (00:00:18) FORM find all_off 
+\i (00:00:18) setwindow form.find
+\i (00:00:18) FORM find all_off  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) FORM find text YES 
+\i (00:00:18) setwindow form.find
+\i (00:00:18) FORM find text YES 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) trapsize 7656
+\i (00:00:19) pick grid 10.6671 67.5342
+\t (00:00:19) last pick:  10.7000 67.5000
+\t (00:00:19) last pick:  25.0000 65.0000
+\t (00:00:19) Pick new location for the element(s).
+\i (00:00:19) prepopup -34.3505 72.2809
+\i (00:00:20) cancel 
+\i (00:00:20) etchedit 
+\i (00:02:17) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:02:18) zoom out 1 
+\i (00:02:18) setwindow pcb
+\i (00:02:18) zoom out 21.8450 35.6849
+\i (00:02:18) trapsize 15312
+\i (00:02:19) zoom out 1 
+\i (00:02:19) setwindow pcb
+\i (00:02:19) zoom out 44.4304 35.6850
+\i (00:02:19) trapsize 26382
+\i (00:02:20) zoom points 
+\t (00:02:20) Pick 1st corner of the new window.
+\i (00:02:21) drag_start -34.2700 168.7491
+\i (00:02:23) drag_stop 155.1521 -78.7132
+\i (00:02:23) trapsize 15544
+\i (00:02:43) save 
+\i (00:02:45) fillin yes 
+\i (00:02:45) etchedit 
+\i (00:02:48) exit 
+\t (00:02:48)     Journal end - Fri Feb 23 12:34:07 2018

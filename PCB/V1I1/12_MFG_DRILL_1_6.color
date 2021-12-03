@@ -1,0 +1,9 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "DRAWING FORMAT/DRAWING_ORIGIN"
+color -vis "ETCH/BOND_BOTTOM"
+color -vis "ETCH/BOND_TOP"
+color -vis "MANUFACTURING/NCLEGEND-1-6"

@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Logo Import Log File                                             )
+(                                                                     )
+(    Drawing          : fa_logo_6x6mm.dra                             )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Feb 11 18:17:54 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Logo File: D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/FA logo black and white.bmp
+Logo to be added on:  BOARD GEOMETRY/SILKSCREEN_TOP
+
+BMP file converted to DXF file.
+Module created for the logo to be imported.
+Conversion Profile created for intermediate DXF File.
+DXF Design added to the Module Definition Database.
+Logo Module Instance created successfully.
+
+
+Logo Import Successful

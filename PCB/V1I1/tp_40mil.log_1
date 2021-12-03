@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : tp_40mil.dra                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sat Jan 13 09:51:26 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1
+    Name      = tp_40mil.psm
+    User      = robotp
+    Machine   = ROBOTP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

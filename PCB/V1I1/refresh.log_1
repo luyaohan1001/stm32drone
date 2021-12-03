@@ -1,0 +1,101 @@
+Sun Feb 11 10:16:06 2018				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sun Feb 11 10:16:06 2018
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : ISL6236A PCB V1I1.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Feb 11 10:16:06 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 11 10:16:06 2018				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/ISL6236A PCB V1I1.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/symbols 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/padstacks 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Symbol Refresh Messages ------
+
+'PAD_4MMX1MM5'  symbol refreshed successfully.
+'L32_5X5B'  symbol refreshed successfully.
+'R0805'  symbol refreshed successfully.
+'C0805'  symbol refreshed successfully.
+'C1206'  symbol refreshed successfully.
+'TP_40MIL'  symbol refreshed successfully.
+'SO-8'  symbol refreshed successfully.
+'C1210'  symbol refreshed successfully.
+'DR125'  symbol refreshed successfully.
+'7343-43'  symbol refreshed successfully.
+'MH_D7MM4_H3MM2'  symbol refreshed successfully.
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_W0MM95_H1MM35'  pad stack refreshed successfully.
+'SMD_W3MM85_H5MM5'  pad stack refreshed successfully.
+'SMD_W3MM75_H2MM55'  pad stack refreshed successfully.
+'SMD_D40MIL'  pad stack refreshed successfully.
+'VIA_D0MM6_H0MM3'  pad stack refreshed successfully.
+'SMD_W0MM7_H1MM3'  pad stack refreshed successfully.
+'SMD_W3MM3_H3MM3'  pad stack refreshed successfully.
+'SMD_W0MM6_H0MM23'  pad stack refreshed successfully.
+'THRU_D4MM_H1MM5'  pad stack refreshed successfully.
+'SMD_W62MIL_H22MIL'  pad stack refreshed successfully.
+'THRU_D7MM4_H3MM2'  pad stack refreshed successfully.
+'SMD_W0MM95_H2MM6'  pad stack refreshed successfully.
+'SMD_W0MM95_H1MM7'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 11 out 11
+    Design updated.
+

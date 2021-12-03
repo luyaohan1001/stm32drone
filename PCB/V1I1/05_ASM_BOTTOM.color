@@ -1,0 +1,15 @@
+#  View replacement method:
+#  Complete
+
+color -globvis off
+color -vis "BOARD GEOMETRY/ASSEMBLY_BOTTOM"
+color -vis "BOARD GEOMETRY/DESIGN_OUTLINE"
+color -vis "COMPONENT VALUE/ASSEMBLY_BOTTOM"
+color -vis "DEVICE TYPE/ASSEMBLY_BOTTOM"
+color -vis "DRAWING FORMAT/DRAWING_ORIGIN"
+color -vis "ETCH/BOND_BOTTOM"
+color -vis "ETCH/BOND_TOP"
+color -vis "PACKAGE GEOMETRY/ASSEMBLY_BOTTOM"
+color -vis "REF DES/ASSEMBLY_BOTTOM"
+color -vis "TOLERANCE/ASSEMBLY_BOTTOM"
+color -vis "USER PART NUMBER/ASSEMBLY_BOTTOM"

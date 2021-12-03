@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : ISL6236A PCB V1I1.brd                         )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Tue Feb 13 13:53:41 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 3
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (12.1074 6.5904)  Net: Dummy Net
+	Point on shape: (13.9477 2.9956)  Net: Dummy Net
+	Point on shape: (12.8124 6.3900)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.

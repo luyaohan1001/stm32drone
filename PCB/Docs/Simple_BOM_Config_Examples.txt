@@ -1,0 +1,19 @@
+Default:
+
+Item\tQuantity\tReference\tPart
+
+{Item}\t{Quantity}\t{Reference}\t{Value}
+
+
+Library check:
+
+Item\tReference\tManufacturer Part Number\tDescription\tPackage / Case\tSCH Checked\tPCB Checked
+
+{Item}\t{Reference}\t{.Manufacturer Part Number}\t{.Description}\t{.Package / Case}\t{..SCH Checked}\t{..PCB Checked}
+
+
+Purchasing:
+
+Item\tReference\tCategory\tManufacturer\tManufacturer Part Number\tOperating Temperature\tPackage / Case\tDescription\tQuantity\tSupplier\tSupplier Part Number\tUnit Price USD (for 1k)
+
+{Item}\t{Reference}\t{.Category}\t{.Manufacturer}\t{.Manufacturer Part Number}\t{.Operating Temperature}\t{.Package / Case}\t{.Description}\t{Quantity}\t{.Supplier}\t{.Supplier Part Number}\t{.Unit Price USD (for 1k)}

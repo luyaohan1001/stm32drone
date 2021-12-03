@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : tp_40mil.dra                                  )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Sun Feb 11 10:18:03 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sun Feb 11 10:18:03 2018				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/tp_40mil.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/symbols 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/padstacks 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Pad Stack Refresh Messages ------
+
+'SMD_D40MIL'  pad stack refresh starting.
+
+     'SMD_D40MIL'  pad stack refreshed successfully.
+     
+'VIA'  pad stack refresh starting.
+
+     'VIA'  pad stack refreshed successfully.
+     
+'SMD_W0MM95_H1MM35'  pad stack refresh starting.
+
+     'SMD_W0MM95_H1MM35'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

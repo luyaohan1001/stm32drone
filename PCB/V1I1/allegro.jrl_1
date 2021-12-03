@@ -1,0 +1,115 @@
+\t (00:00:02) allegro 17.2 S025 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Feb 23 12:27:19 2018
+\t (00:00:02)         Host=ROBOTP-PC User=robotp Pid=13600 CPUs=8
+\t (00:00:02) CmdLine= d:\cadence\spb_17.2\tools\bin\allegro.exe D:\Courses\Learn OrCAD and Allegro Essentials\Design Files\V1I1\ISL6236A PCB V1I1.brd
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+   (00:00:02) "Loading add_layer_name. Created by Robert Feranec (c) 2017 FEDEVEL"
+\t (00:00:03) Opening existing design...
+\d (00:00:04) Design opened: D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1/ISL6236A PCB V1I1.brd
+\i (00:00:04) trapsize 15230
+\i (00:00:04) trapsize 15577
+\i (00:00:04) trapsize 15577
+\i (00:00:04) trapsize 217374
+\i (00:00:04) trapsize 199259
+\i (00:00:05) etchedit 
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "File: 11 - MFG ASM BOTTOM - 6V to 24V Variant"
+\i (00:00:08) QtSignal ColorVisibilityPane CVPViewDropdown activated "File: 11 - MFG ASM BOTTOM - 6V to 24V Variant"
+\i (00:00:08) color -globvis off 
+\i (00:00:08) color -vis 'BOARD GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:08) color -vis 'BOARD GEOMETRY/DESIGN_OUTLINE' 
+\i (00:00:08) color -vis 'COMPONENT VALUE/ASSEMBLY_BOTTOM' 
+\i (00:00:08) color -vis 'DEVICE TYPE/ASSEMBLY_BOTTOM' 
+\i (00:00:08) color -vis 'DRAWING FORMAT/DRAWING_ORIGIN' 
+\i (00:00:08) color -vis ETCH/BOND_BOTTOM 
+\i (00:00:08) color -vis ETCH/BOND_TOP 
+\i (00:00:08) color -vis 'MANUFACTURING/6 TO 24V VARIANT_B' 
+\i (00:00:08) color -vis 'PACKAGE GEOMETRY/ASSEMBLY_BOTTOM' 
+\i (00:00:08) color -vis 'REF DES/ASSEMBLY_BOTTOM' 
+\i (00:00:08) color -vis TOLERANCE/ASSEMBLY_BOTTOM 
+\i (00:00:08) color -vis 'USER PART NUMBER/ASSEMBLY_BOTTOM' 
+\i (00:00:08) trapsize 15577
+\i (00:00:09) etchedit 
+\i (00:00:12) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 1.2198 23.7348
+\i (00:00:13) trapsize 7789
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 1.2198 23.7348
+\i (00:00:13) trapsize 3894
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 1.2198 23.7349
+\i (00:00:14) trapsize 7789
+\i (00:00:15) roam start
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -64
+\i (00:00:15) roam y -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -32
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -24
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -24
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -24
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -32
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -16
+\i (00:00:15) roam x -8
+\i (00:00:15) roam x -8
+\i (00:00:15) roam end
+\i (00:00:17) move 
+\t (00:00:17) Select element(s) to move.
+\i (00:00:18) FORM find all_off 
+\i (00:00:18) setwindow form.find
+\i (00:00:18) FORM find all_off  
+\i (00:00:18) setwindow pcb
+\i (00:00:18) FORM find text YES 
+\i (00:00:18) setwindow form.find
+\i (00:00:18) FORM find text YES 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) trapsize 7789
+\i (00:00:19) pick grid -3.8041 66.3794
+\t (00:00:19) last pick:  -3.8000 66.4000
+\t (00:00:19) last pick:  25.0000 65.0000
+\t (00:00:19) Pick new location for the element(s).
+\i (00:00:20) prepopup -43.6819 65.1333
+\i (00:00:20) cancel 
+\i (00:00:21) etchedit 
+\i (00:01:40) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:01:40) zoom out 1 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom out 12.3963 54.3850
+\i (00:01:40) trapsize 15577
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 37.4756 54.3849
+\i (00:01:41) trapsize 26382
+\i (00:01:42) zoom points 
+\t (00:01:42) Pick 1st corner of the new window.
+\i (00:01:44) drag_start -34.2700 164.0004
+\i (00:01:45) drag_stop 121.3833 -79.7685
+\i (00:01:45) trapsize 15312
+\i (00:01:50) save 
+\i (00:01:52) fillin yes 
+\i (00:01:52) etchedit 
+\i (00:01:56) exit 
+\t (00:01:56)     Journal end - Fri Feb 23 12:29:13 2018

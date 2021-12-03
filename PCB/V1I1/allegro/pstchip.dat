@@ -1,0 +1,415 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 17.2.0 d001Feb-21-2018 at 08:35:31}
+primitive 'CAP CER 4.7UF 35V X5R 1206_C120';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 4.7UF 35V X5R 1206';
+    JEDEC_TYPE='c1206';
+    VALUE='4u7, 35V';
+  end_body;
+end_primitive;
+primitive 'CAP TANT POLY 330UF 10V 2917_73';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP TANT POLY 330UF 10V 2917';
+    JEDEC_TYPE='7343-43';
+    VALUE='330uF, 10V';
+  end_body;
+end_primitive;
+primitive 'CAP CER 10000PF 50V X7R 0805_C0';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 10000PF 50V X7R 0805';
+    JEDEC_TYPE='c0805';
+    VALUE='10nF';
+  end_body;
+end_primitive;
+primitive 'CAP CER 0.1UF 50V X7R 0805_C080';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 0.1UF 50V X7R 0805';
+    JEDEC_TYPE='c0805';
+    VALUE='100nF';
+  end_body;
+end_primitive;
+primitive 'CAP CER 1UF 50V X7R 0805_C0805_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 1UF 50V X7R 0805';
+    JEDEC_TYPE='c0805';
+    VALUE='1uF, 50V';
+  end_body;
+end_primitive;
+primitive 'CAP CER 10UF 50V X5R 1210_C1210';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 10UF 50V X5R 1210';
+    JEDEC_TYPE='c1210';
+    VALUE='10uF, 50V';
+  end_body;
+end_primitive;
+primitive 'CAP CER 0.22UF 50V X7R 0805_C08';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='CAP CER 0.22UF 50V X7R 0805';
+    JEDEC_TYPE='c0805';
+    VALUE='220nF';
+  end_body;
+end_primitive;
+primitive 'FIDUCIAL M80MILXD40MIL_FID_M80M';
+  pin
+  end_pin;
+  body
+    PART_NAME='Fiducial M80MILxD40MIL';
+    JEDEC_TYPE='fid_m80mil_d40mil';
+    CLASS='MECHANICAL';
+    VALUE='Fiducial M80MILxD40MIL';
+  end_body;
+end_primitive;
+primitive 'PAD D4MMXH1MM5_PAD_4MMX1MM5_4MM';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Pad D4MMxH1MM5';
+    JEDEC_TYPE='pad_4MMx1MM5';
+    VALUE='4mm x 1.5mm';
+  end_body;
+end_primitive;
+primitive 'FIXED IND 3.3UH 9.26A 6.3 MOHM_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FIXED IND 3.3UH 9.26A 6.3 MOHM';
+    JEDEC_TYPE='DR125';
+    VALUE='3u3, DR125-3R3-R';
+  end_body;
+end_primitive;
+primitive 'FIXED IND 2.2UH 10.9A 4.5 MOHM_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='FIXED IND 2.2UH 10.9A 4.5 MOHM';
+    JEDEC_TYPE='DR125';
+    VALUE='2u2, DR125-2R2-R';
+  end_body;
+end_primitive;
+primitive 'MOUNTING HOLE D7MM4XH3MM2_MH_D7';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Mounting hole D7MM4xH3MM2';
+    JEDEC_TYPE='mh_d7mm4_h3mm2';
+    VALUE='7.4mm, 3.2mm';
+  end_body;
+end_primitive;
+primitive 'SI4816BDY-T1-GE3_SO-8_SI4816BDY';
+  pin
+    'G1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'A/S2_1':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'A/S2_2':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'G2':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'D2/S1_1':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'D2/S1_2':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'D2/S1_3':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'D1':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='SI4816BDY-T1-GE3';
+    JEDEC_TYPE='so-8';
+    VALUE='SI4816BDY-T1-GE3';
+  end_body;
+end_primitive;
+primitive 'RES SMD 0 OHM JUMPER 1/8W 0805_';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES SMD 0 OHM JUMPER 1/8W 0805';
+    JEDEC_TYPE='r0805';
+    VALUE='0R';
+  end_body;
+end_primitive;
+primitive 'RES SMD 200K OHM 1% 1/8W 0805_R';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES SMD 200K OHM 1% 1/8W 0805';
+    JEDEC_TYPE='r0805';
+    VALUE='200k, 1%';
+  end_body;
+end_primitive;
+primitive 'RES SMD 10K OHM 1% 1/8W 0805_R0';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES SMD 10K OHM 1% 1/8W 0805';
+    JEDEC_TYPE='r0805';
+    VALUE='10k, 1%';
+  end_body;
+end_primitive;
+primitive 'RES SMD TBD 0805_R0805_TBD';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES SMD TBD 0805';
+    JEDEC_TYPE='r0805';
+    VALUE='TBD';
+  end_body;
+end_primitive;
+primitive 'RES SMD 10 OHM 1% 1/8W 0805_R08';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES SMD 10 OHM 1% 1/8W 0805';
+    JEDEC_TYPE='r0805';
+    VALUE='10R, 1%';
+  end_body;
+end_primitive;
+primitive 'RES SMD 1 OHM 1% 1/8W 0805_R080';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES SMD 1 OHM 1% 1/8W 0805';
+    JEDEC_TYPE='r0805';
+    VALUE='1R, 1%';
+  end_body;
+end_primitive;
+primitive 'TESTPOINT D40MIL_TP_40MIL_TESTP';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Testpoint D40MIL';
+    JEDEC_TYPE='tp_40mil';
+    VALUE='Testpoint 40mil';
+  end_body;
+end_primitive;
+primitive 'ISL6236AIRZ_L32_5X5B_ISL6236AIR';
+  pin
+    'REF':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'TON':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    'VCC':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    'EN LDO':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    'VREF3':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    'VIN':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    'LDO':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    'LDOREFIN':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    'BYP':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    'OUT1':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+    'FB1':
+      PIN_NUMBER='(11)';
+      PINUSE='UNSPEC';
+    'ILIM1':
+      PIN_NUMBER='(12)';
+      PINUSE='UNSPEC';
+    'POK1':
+      PIN_NUMBER='(13)';
+      PINUSE='UNSPEC';
+    'EN1':
+      PIN_NUMBER='(14)';
+      PINUSE='UNSPEC';
+    'UGATE1':
+      PIN_NUMBER='(15)';
+      PINUSE='UNSPEC';
+    'PHASE1':
+      PIN_NUMBER='(16)';
+      PINUSE='UNSPEC';
+    'BOOT1':
+      PIN_NUMBER='(17)';
+      PINUSE='UNSPEC';
+    'LGATE1':
+      PIN_NUMBER='(18)';
+      PINUSE='UNSPEC';
+    'PVCC':
+      PIN_NUMBER='(19)';
+      PINUSE='UNSPEC';
+    'SECFB':
+      PIN_NUMBER='(20)';
+      PINUSE='UNSPEC';
+    'GND':
+      PIN_NUMBER='(21)';
+      PINUSE='UNSPEC';
+    'PGND':
+      PIN_NUMBER='(22)';
+      PINUSE='UNSPEC';
+    'LGATE2':
+      PIN_NUMBER='(23)';
+      PINUSE='UNSPEC';
+    'BOOT2':
+      PIN_NUMBER='(24)';
+      PINUSE='UNSPEC';
+    'PHASE2':
+      PIN_NUMBER='(25)';
+      PINUSE='UNSPEC';
+    'UGATE2':
+      PIN_NUMBER='(26)';
+      PINUSE='UNSPEC';
+    'EN2':
+      PIN_NUMBER='(27)';
+      PINUSE='UNSPEC';
+    'POK2':
+      PIN_NUMBER='(28)';
+      PINUSE='UNSPEC';
+    'SKIP#':
+      PIN_NUMBER='(29)';
+      PINUSE='UNSPEC';
+    'OUT2':
+      PIN_NUMBER='(30)';
+      PINUSE='UNSPEC';
+    'ILIM2':
+      PIN_NUMBER='(31)';
+      PINUSE='UNSPEC';
+    'REFIN2':
+      PIN_NUMBER='(32)';
+      PINUSE='UNSPEC';
+    'EP':
+      PIN_NUMBER='(33)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='ISL6236AIRZ';
+    JEDEC_TYPE='L32_5X5B';
+    VALUE='ISL6236AIRZ';
+  end_body;
+end_primitive;
+END.

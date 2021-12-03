@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : c0805.dra                                     )
+(    Software Version : 17.2S025                                      )
+(    Date/Time        : Mon Jan 01 16:27:39 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Courses/Learn OrCAD and Allegro Essentials/Design Files/V1I1
+    Name      = c0805.psm
+    User      = robotp
+    Machine   = ROBOTP-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

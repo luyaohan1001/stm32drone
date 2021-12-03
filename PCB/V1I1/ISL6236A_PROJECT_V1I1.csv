@@ -1,0 +1,7 @@
+Name,Type,Page,Page Number,Schematic,PartPin,LocationX,LocationY,Zone,IREF
+"EN1","OffPage","03) +1.5V / +1.05V POWER SUPPLY","3","ISL6236A Schematic","R11.1,U1.14","260","970","5A","4"
+"EN1","OffPage","04) PADS,TESTPOINTS, MECHANICAL","4","ISL6236A Schematic","TP1.1","260","850","5B","3"
+"POK1","OffPage","03) +1.5V / +1.05V POWER SUPPLY","3","ISL6236A Schematic","R10.1,U1.13,U1.27","1050","720","2B","4"
+"POK1","OffPage","04) PADS,TESTPOINTS, MECHANICAL","4","ISL6236A Schematic","TP2.1","190","1020","5A","3"
+"POK2","OffPage","03) +1.5V / +1.05V POWER SUPPLY","3","ISL6236A Schematic","R9.1,U1.28","1050","740","2B","4"
+"POK2","OffPage","04) PADS,TESTPOINTS, MECHANICAL","4","ISL6236A Schematic","TP3.1","190","1080","5A","3"
