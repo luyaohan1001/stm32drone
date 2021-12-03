@@ -90,8 +90,6 @@
 ![Screenshot](./media/gifs/drone111.gif)
 ![Screenshot](./media/gifs/drone12.gif)
 ![Screenshot](./media/gifs/drone13.gif)
-![Screenshot](./media/gifs/drone14.gif)
-![Screenshot](./media/gifs/drone16.gif)
 ![Screenshot](./media/gifs/drone17.gif)
 ![Screenshot](./media/gifs/drone19.gif)
 ![Screenshot](./media/gifs/drone22.gif)
