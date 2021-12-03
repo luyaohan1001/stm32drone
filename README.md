@@ -113,7 +113,4 @@
 ![Screenshot](./media/gifs/drone88.gif)
 ![Screenshot](./media/gifs/drone94.gif)
 ![Screenshot](./media/gifs/drone95.gif)
-![Screenshot](./media/gifs/drone96.gif)
-![Screenshot](./media/gifs/drone97.gif)
 ![Screenshot](./media/gifs/drone98.gif)
-![Screenshot](./media/gifs/drone99.gif)
