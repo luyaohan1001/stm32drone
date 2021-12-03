@@ -3,7 +3,7 @@
 
 #include "stm32f10x.h"
 
-#define PERIOD 		(SystemCoreClock/10000)				//ARR计数值为：7200，不分频时，则pwm频率为10KHz，注意这里要用小括号括起来
+#define PERIOD 		(SystemCoreClock/10000)			
 
 
 void motor_PwmConfig(void);

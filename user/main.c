@@ -36,13 +36,8 @@ int main(void)
 	/* Initialize Motors */
 	MOTO_PwmConfig();
 	
-	//无线配置
 	NRF_Config();
-	
-	//无线信号通断检查配置
 	CheckSignal_Config();
-	
-	//接收DMP中断完成信号的EXTI初始化
 	DMP_EXTIConfig();
  
 	while(1){}

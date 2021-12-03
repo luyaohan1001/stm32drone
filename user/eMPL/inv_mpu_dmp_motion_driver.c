@@ -1,13 +1,3 @@
-/***************************************************************************************
-									声明
-本项目代码仅供个人学习使用，可以自由移植修改，但必须保留此声明信息。移植过程中出现其他不可
-估量的BUG，修远智控不负任何责任。请勿商用！
-
-程序版本号：	2.0
-日期：			2017-1-1
-作者：			东方萧雨
-版权所有：		修远智控N0.1实验室
-****************************************************************************************/
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
@@ -18,7 +8,7 @@
 #include "inv_mpu.h"
 #include "inv_mpu_dmp_motion_driver.h"
 
-//指示移植使用的是MSP430平台的驱动
+
 #define MOTION_DRIVER_TARGET_MSP430
 
 /* The following functions must be defined for this platform:
@@ -562,18 +552,6 @@ int dmp_set_orientation(unsigned short orient)
     return 0;
 }
 
-/************************************************************************
-	将陀螺仪的偏差写入DMP中，以便DMP进行姿态演算的时候，可以移除偏差，
-	注意：当DMP的陀螺仪静止8秒自动校准特性使能时，会自动覆盖这个写入的偏差
- *  @brief      Push gyro biases to the DMP.
- *  Because the gyro integration is handled in the DMP, any gyro biases
- *  calculated by the MPL should be pushed down to DMP memory to remove
- *  3-axis quaternion drift.
- *  \n NOTE: If the DMP-based gyro calibration is enabled, the DMP will
- *  overwrite the biases written to this location once a new one is computed.
- *  @param[in]  bias    Gyro biases in q16.
- *  @return     0 if successful.
- ***************************************************************************/
 int dmp_set_gyro_bias(long *bias)
 {
     long gyro_bias_body[3];
@@ -620,14 +598,6 @@ int dmp_set_gyro_bias(long *bias)
     return mpu_write_mem(D_EXT_GYRO_BIAS_Z, 4, regs);
 }
 
-/****************************************************************
-	将加速计的偏差写入DMP中，注意在计算四元数的，写入的偏差将被
-	移除，不被使用
- *  @brief      Push accel biases to the DMP.
- *  These biases will be removed from the DMP 6-axis quaternion.
- *  @param[in]  bias    Accel biases in q16.
- *  @return     0 if successful.
- ****************************************************************/
 int dmp_set_accel_bias(long *bias)
 {
     long accel_bias_body[3];
@@ -637,7 +607,7 @@ int dmp_set_accel_bias(long *bias)
 
     mpu_get_accel_sens(&accel_sens);
     accel_sf = (long long)accel_sens << 15;
-//    __no_operation();															//直接注释掉即可
+//    __no_operation();															
 
     accel_bias_body[0] = bias[dmp.orient & 3];
     if (dmp.orient & 4)
@@ -674,13 +644,7 @@ int dmp_set_accel_bias(long *bias)
     return mpu_write_mem(D_ACCEL_BIAS, 12, regs);
 }
 
-/***********************************************************************
-*  配置DMP输出采样频率（仅在DMP打开时，才可以配置）（最大为200HZ）
-	@brief      Set DMP output rate.
- *  Only used when DMP is on.
- *  @param[in]  rate    Desired fifo rate (Hz).
- *  @return     0 if successful.
- **********************************************************************/
+
 int dmp_set_fifo_rate(unsigned short rate)
 {
     const unsigned char regs_end[12] = {DINAFE, DINAF2, DINAAB,
@@ -978,7 +942,7 @@ int dmp_set_pedometer_walk_time(unsigned long time)
 }
 
 /****************************************************************************
-	使能DMP的特性
+
  *  @brief      Enable DMP features.
  *  The following \#define's are used in the input mask:
  *  \n DMP_FEATURE_TAP
@@ -1096,10 +1060,10 @@ int dmp_enable_feature(unsigned short mask)
         dmp_enable_6x_lp_quat(0);
 
     /* Pedometer is always enabled. */
-    dmp.feature_mask = mask | DMP_FEATURE_PEDOMETER;			//计步特性是随着DMP的使能而使能的
-    mpu_reset_fifo();											//复位FIFO
+    dmp.feature_mask = mask | DMP_FEATURE_PEDOMETER;			
+    mpu_reset_fifo();											
 
-	//设置DMP每次获取数据的内容，以及FIFO中数据包的总长度
+	
     dmp.packet_length = 0;
     if (mask & DMP_FEATURE_SEND_RAW_ACCEL)
         dmp.packet_length += 6;
@@ -1124,16 +1088,7 @@ int dmp_get_enabled_features(unsigned short *mask)
     return 0;
 }
 
-/*************************************************************************
-	使能陀螺仪静止八秒，自动校准在DMP中的陀螺仪的数据的功能
- *  @brief      Calibrate the gyro data in the DMP.
- *  After eight seconds of no motion, the DMP will compute gyro biases and
- *  subtract them from the quaternion output. If @e dmp_enable_feature is
- *  called with @e DMP_FEATURE_SEND_CAL_GYRO, the biases will also be
- *  subtracted from the gyro output.
- *  @param[in]  enable  1 to enable gyro calibration.
- *  @return     0 if successful.
- ***************************************************************************/
+
 int dmp_enable_gyro_cal(unsigned char enable)
 {
     if (enable) {
@@ -1248,34 +1203,10 @@ int dmp_set_interrupt_mode(unsigned char mode)
     }
 }
 
-/****************************************************************************************
-	从FIFO中获得根据传入的sensors参数指定的传感器的一个数据包，如果FIFO尚未有指定传感器的
-	新数据，则返回一个0数据包，当没有使用FIFO时，则也会返回一个0数据包，同时返回一个非0的结果
-	表明读取失败
-	（注意：FIFO会根据mpu_configure_fifo函数的设定在每次采样成功后保存的哪些传感器的数据）
- *  @brief      Get one packet from the FIFO.
- *  If @e sensors does not contain a particular sensor, disregard the data
- *  returned to that pointer.
- *  \n @e sensors can contain a combination of the following flags:
- *  \n INV_X_GYRO, INV_Y_GYRO, INV_Z_GYRO
- *  \n INV_XYZ_GYRO
- *  \n INV_XYZ_ACCEL
- *  \n INV_WXYZ_QUAT
- *  \n If the FIFO has no new data, @e sensors will be zero.
- *  \n If the FIFO is disabled, @e sensors will be zero and this function will
- *  return a non-zero error code.
- *  @param[out] gyro        Gyro data in hardware units.
- *  @param[out] accel       Accel data in hardware units.
- *  @param[out] quat        3-axis quaternion data in hardware units.
- *  @param[out] timestamp   Timestamp in milliseconds.
- *  @param[out] sensors     Mask of sensors read from FIFO.
- *  @param[out] more        Number of remaining packets.
- *  @return     0 if successful.
- ****************************************************************************************/
 int dmp_read_fifo(short *gyro, short *accel, long *quat,
     unsigned long *timestamp, short *sensors, unsigned char *more)
 {
-    unsigned char fifo_data[MAX_PACKET_LENGTH];			//定义一个FIFO最大的缓存大小
+    unsigned char fifo_data[MAX_PACKET_LENGTH];			
     unsigned char ii = 0;
 
     /* TODO: sensors[0] only changes when dmp_enable_feature is called. We can
@@ -1283,7 +1214,7 @@ int dmp_read_fifo(short *gyro, short *accel, long *quat,
      */
     sensors[0] = 0;
 
-    /* Get a packet.DMP数据包长度 */
+
     if (mpu_read_fifo_stream(dmp.packet_length, fifo_data, more))
         return -1;
 

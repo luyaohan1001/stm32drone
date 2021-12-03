@@ -59,7 +59,6 @@ void motor_PwmConfig(void)
 }
 
 
-//方便测试启动电机用的
 void motor_Start(void)
 {
 	motor1_SetDuty(10);

@@ -3,9 +3,9 @@
 
 #include "stm32f10x.h"
 
-//提供给外部调用的变量
-extern short gyro[3], accel[3];			//原始数据
-extern float pit,rol,yaw;				//姿态角
+
+extern short gyro[3], accel[3];			
+extern float pit,rol,yaw;				
 
 void gyro_data_ready_cb(void);
 void SetReportFlag(u8 rawDataReportCmd,u8 quatDataReportCmd);
