@@ -1,3 +1,4 @@
+# Drone flight control motherboard. Designed by Luyao Han during 2018 summer.
 ![Screenshot](./media/drone1.jpg)
 ![Screenshot](./media/drone10.jpg)
 ![Screenshot](./media/drone11.jpg)
